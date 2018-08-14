@@ -3,8 +3,8 @@
 *  Prof: Juan Camilo Correa Chica
 *  Fecha: Agosto 6/2018 - Agosto 13/2018
 *  Plazo máximo para enviar enlace para clonar el repositorio: Agosto 13/2018 - 09:29pm
-*  Estudiante1: Nombres y apellidos completos
-*  Estudiante2: Nombres y apellidos completos (Opcional, puede trabajar individualmente)
+*  Estudiante1: Andres David Cardona Tamayo
+*  Estudiante2: Esteban Donelly Ochoa
 *  Fecha del ultimo Commit en GitHub: Agregue la fecha y hora del ultimo Commit (aproximada)
 *
 
